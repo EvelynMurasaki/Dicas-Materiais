@@ -5,7 +5,7 @@
 
 ° https://www.isecom.org/research.html#content5-9d
 
-OWASP - Teste de intrução
+OWASP - Teste de intrusão
 
 ° https://owasp.org/projects/
 
